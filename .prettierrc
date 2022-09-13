@@ -1,0 +1,10 @@
+{  
+  "endOfLine": "auto",
+  "printWidth": 80,
+  "singleQuote": true,
+  "semi": true,
+  "tabWidth": 4,  
+  "useTabs": true,
+  "requireConfig": false,
+  "editor.formatOnSave": true
+}
